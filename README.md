@@ -1,12 +1,12 @@
 # Codebasics-Excel-5-
 
-In this dataset i have to find 
+In this dataset, I have to find 
                  
-Revenue           =SUMIF(Movies[studio],"Marvel Studios",Movies[Revenue USD])
-Budget            =SUMIF(Movies[studio],"Marvel Studios", Movies[Budget USD])
-Profit/Loss       Revenue/Budget as B1
-Profit / Loss %   B1/Budget
-Market Share %    =Revenue/SUMIF(Movies[industry],"Hollywood", Movies[Revenue USD])
+# Revenue           =SUMIF(Movies[studio],"Marvel Studios",Movies[Revenue USD])
+# Budget            =SUMIF(Movies[studio],"Marvel Studios", Movies[Budget USD])
+# Profit/Loss       Revenue/Budget as B1
+# Profit / Loss %   B1/Budget
+# Market Share %    =Revenue/SUMIF(Movies[industry],"Hollywood", Movies[Revenue USD])
 for Marvel studios 
 
 
